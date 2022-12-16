@@ -16,11 +16,11 @@
        "&kp LSHFT",     "&kp Z",    "&kp X",   "&kp C",   "&kp V",  "&kp B",               "&none",     "&none",  "&kp HOME",    "&none",     "&none",     "&kp PG_UP",     "&none",         "&none",     "&kp N",    "&kp M", "&kp LEFT", "&kp DOWN", "&kp RIGHT",     "&mo 2",
        "&kp LCTRL", "&kp GRAVE", "&kp LALT", "&kp TAB", "&kp ESC",  "&mo 1",           "&kp LCTRL",   "&kp END", "&kp PG_DN", "&kp RGUI", "&kp SPACE", "&kp BACKSPACE", "&kp ENTER",      "&kp RALT", "&kp RCTRL", "&kp RGUI"
     ], [
-       "&trans", "&kp N1", "&kp N2", "&kp N3", "&kp N4",          "&kp N5",           "&trans",     "&mo 3",    "&kp N6",   "&kp N7",   "&kp N8",       "&kp N9",       "&kp N0", "&trans",
-       "&trans", "&kp N7", "&kp N8", "&kp N9", "&kp N0", "&kp PRINTSCREEN",            "&none",     "&none",     "&none", "&kp LBKT", "&kp RBKT", "&kp KP_MINUS", "&kp KP_EQUAL", "&trans",
-       "&trans", "&kp N4", "&kp N5", "&kp N6",  "&none",           "&none",            "&none", "&kp LCTRL",  "&kp LALT",                             "&kp LGUI",    "&kp RCTRL",  "&none",  "&none", "&kp GRAVE",  "&kp SEMI", "&kp SQT", "&kp BACKSLASH", "&trans",
-       "&trans", "&kp N1", "&kp N2", "&kp N3",  "&none",           "&none",            "&none",     "&none",  "&kp HOME",    "&none",    "&none",    "&kp PG_UP",        "&none",  "&none",  "&none",    "&trans", "&kp COMMA", "&kp DOT",     "&kp SLASH", "&trans",
-       "&trans", "&trans", "&trans",  "&none",  "&none",          "&trans",           "&trans",   "&kp END", "&kp PG_DN",   "&trans",   "&trans",        "&none",        "&none", "&trans", "&trans",    "&trans"
+       "&trans", "&kp N1", "&kp N2", "&kp N3", "&kp N4",          "&kp N5",           "&trans",     "&mo 3",    "&kp N6",   "&kp N7",   "&kp N8",    "&kp N9",    "&kp N0", "&trans",
+       "&trans", "&kp N7", "&kp N8", "&kp N9", "&kp N0", "&kp PRINTSCREEN",            "&none",     "&none",     "&none", "&kp LBKT", "&kp RBKT", "&kp MINUS", "&kp EQUAL", "&trans",
+       "&trans", "&kp N4", "&kp N5", "&kp N6",  "&none",           "&none",            "&none", "&kp LCTRL",  "&kp LALT",                          "&kp LGUI", "&kp RCTRL",  "&none",  "&none", "&kp GRAVE",  "&kp SEMI", "&kp SQT", "&kp BACKSLASH", "&trans",
+       "&trans", "&kp N1", "&kp N2", "&kp N3",  "&none",           "&none",            "&none",     "&none",  "&kp HOME",    "&none",    "&none", "&kp PG_UP",     "&none",  "&none",  "&none",    "&trans", "&kp COMMA", "&kp DOT",     "&kp SLASH", "&trans",
+       "&trans", "&trans", "&trans",  "&none",  "&none",          "&trans",           "&trans",   "&kp END", "&kp PG_DN",   "&trans",   "&trans",     "&none",     "&none", "&trans", "&trans",    "&trans"
     ], [
        "&kp F1", "&kp F2",  "&kp F3",  "&kp F4",  "&kp F5", "&kp F6",           "&tog 1",  "&mo 3",       "&kp F7", "&kp F8",     "&kp F9",          "&kp F10",    "&kp F11", "&kp F12",
        "&trans", "&kp F9", "&kp F10", "&kp F11", "&kp F12", "&trans",            "&none",  "&none",       "&trans", "&trans", "&kp K_PREV", "&kp K_PLAY_PAUSE", "&kp K_NEXT",  "&trans",
